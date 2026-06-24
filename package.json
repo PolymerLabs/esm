@@ -33,7 +33,7 @@
     "test:prod": "node script/test.js --prod"
   },
   "devDependencies": {
-    "@babel/core": "^7.3.3",
+    "@babel/core": "^7.29.6",
     "@babel/plugin-proposal-class-properties": "^7.3.3",
     "@babel/plugin-proposal-optional-catch-binding": "^7.2.0",
     "@babel/plugin-transform-arrow-functions": "^7.2.0",
